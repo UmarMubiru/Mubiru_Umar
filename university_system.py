@@ -46,3 +46,7 @@ l.display_info()
 print("\n=== Staff ===")
 st = Staff("Mr. Dan", 38, "Admissions")
 st.display_info()
+
+
+
+
